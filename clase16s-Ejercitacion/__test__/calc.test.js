@@ -1,4 +1,4 @@
-// const { describe } = require("yargs");
+
 const {suma, resta, multiplicacion, division} = require("../calc.js");
 
 describe("Test de sumas", () => {
